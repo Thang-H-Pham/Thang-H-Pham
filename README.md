@@ -11,5 +11,5 @@ Hi! I'm Thang, a freshman student at Wentworth Institute of Technology, passiona
 2. **HackWIT** – Designed and managed the contact page of a hackathon website, highlighting contributors.
 
 ## Contact
-- Email: thanghpham1506@gmail.com.com
+- Email: thanghpham1506@gmail.com
 - LinkedIn: [linkedin.com/in/thanghpham/](https://www.linkedin.com/in/thanghpham/)
