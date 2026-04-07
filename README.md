@@ -1,16 +1,15 @@
-## Hi there 👋
+# Thang H Pham (He/Him)
 
-<!--
-**Thang-H-Pham/Thang-H-Pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Thang, a freshman student at Wentworth Institute of Technology, passionate about:
 
-Here are some ideas to get you started:
+- Web development 🌐
+- Java, and Cloud/DevOps programming 💻
+- Artificial Intelligence 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+1. **Tic Tac Toe** – A turn-based 3x3 grid game for simple computer vs. human gameplay, built with foundational Java concepts.  
+2. **HackWIT** – Designed and managed the contact page of a hackathon website, highlighting contributors.
+
+## Contact
+- Email: thanghpham1506@gmail.com.com
+- LinkedIn: [linkedin.com/in/thanghpham/](https://www.linkedin.com/in/thanghpham/)
