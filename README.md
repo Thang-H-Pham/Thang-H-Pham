@@ -1,4 +1,4 @@
-# Thang H Pham (He/Him)
+# Thang Pham (He/Him)
 
 Hi! I'm Thang, a freshman student at Wentworth Institute of Technology, passionate about:
 
