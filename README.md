@@ -9,6 +9,7 @@ Hi! I'm Thang, a freshman student at Wentworth Institute of Technology, passiona
 ## Projects
 1. **Tic Tac Toe** – A turn-based 3x3 grid game for simple computer vs. human gameplay, built with foundational Java concepts.  
 2. **HackWIT** – Designed and managed the contact page of a hackathon website, highlighting contributors.
+3. **Portfolio Website** – Designed and developed a responsive portfolio website using HTML, CSS, and JavaScript, featuring interactive elements and a clean, user-focused UI to showcase projects and experiences
 
 ## Contact
 - Email: thanghpham1506@gmail.com
