@@ -1,9 +1,9 @@
 # Thang Pham (He/Him)
 
-Hi! I'm Thang, a freshman student at Wentworth Institute of Technology, passionate about:
+Hi! I'm Thang, a student at Wentworth Institute of Technology, passionate about:
 
 - Web development 🌐
-- Java, and Cloud/DevOps programming 💻
+- Java and Full-Stack Development 💻
 - Artificial Intelligence 🤖
 
 ## Projects
